@@ -18,7 +18,7 @@ export default function Home() {
 
         <p className={styles.description}>
           I live in <code className={styles.code}>Italy</code> and during my
-          studies &nbsp; 
+          studies 
           <code className={styles.code}>
             at University</code> has grown my interest <code className={styles.code}>for enterprise
             </code> development, and that motivated me to understang what are tools and
