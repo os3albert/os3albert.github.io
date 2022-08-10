@@ -17,12 +17,9 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          I live in <code className={styles.code}>Italy</code> and during my
-          studies 
-          <code className={styles.code}>
-            at University</code> has grown my interest <code className={styles.code}>for enterprise
-            </code> development, and that motivated me to understang what are tools and
-            metodologies to build and IT project, to learn the value of <code className={styles.code}>Open
+          My interest is<code className={styles.code}>for enterprise
+            </code> development, and that motivated me to understand what are tools and
+            metodologies to build an IT project, to learn the value of <code className={styles.code}>Open
             Source</code> and Why it's so important{" "}
         </p>
 
